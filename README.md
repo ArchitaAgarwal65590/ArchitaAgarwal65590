@@ -1,4 +1,6 @@
- #👋 Hi,I'm @ArchitaAgarwal65590 
+<ul>
+<li>👋 Hi,I'm @ArchitaAgarwal65590</li> 
+</ul>
  #🔭 I’m interested in web development
  #💻 I’m currently learning java
  #👀 I’m looking to collaborate on ...
